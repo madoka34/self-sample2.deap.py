@@ -17,16 +17,15 @@
  
 
 
-## 必要環境  
+## 環境  
 
 Python3 or more  
+Ubuntu16.04  
 
-## Usage
+## 使い方
 
-1. git clone ""
-    $ git clone
-2. Usage
-3. Usage
+1. git からインストール
+2. 端末で "self-sample2.deap.py" を実行
 
 ## インストール
 
