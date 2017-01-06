@@ -3,7 +3,7 @@
 
 OverviewOverviewOverview
 
-## Description
+## 概要
 
 遺伝的プログラミングをつかって関数同定問題を解きます。最終的な結果はグラフに起こしました。
 
@@ -21,13 +21,13 @@ For more information, see `awesome-tool --help`.
 
 ## Requirement
 
-- Requirement
-- Requirement
-- Requirement
+- Python3 or more
+- 
+- 
 
 ## Usage
 
-1. Usage
+1. git clone ""
 2. Usage
 3. Usage
 
