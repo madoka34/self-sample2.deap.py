@@ -1,14 +1,11 @@
 # self-sample2.deap.py
 
-![Badge Status](https://ci-as-a-service)
 
 OverviewOverviewOverview
 
 ## Description
 
-DescriptionDescriptionDescription
-DescriptionDescriptionDescription
-DescriptionDescriptionDescription
+遺伝的プログラミングをつかって関数同定問題を解きます。最終的な結果はグラフに起こしました。
 
 ***DEMO:***
 
