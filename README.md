@@ -36,6 +36,10 @@ Ubuntu16.04
 数式を探索できるならば、プログラムコードも自動生成することも理論上期待できる  
 今後はDeepLearning技術の人的プログラミングも、GPを使って自動化する技術に挑戦したい  
 
+*(#追記#)*  
+・探したところ（Neuro Evolution of Argumenting Topology）というライブラリが出ていた。次回使ってみる   
+ http://neat-python.readthedocs.io/en/latest/
+
 ##### 執筆
 
 [@ryusato](https://facebook.com/baranohana.jp)
