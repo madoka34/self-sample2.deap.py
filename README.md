@@ -1,8 +1,6 @@
 # self-sample2.deap.py
 
 
-OverviewOverviewOverview
-
 ## 概要
 
 遺伝的プログラミングをつかって関数同定問題を解きます。最終的な結果はグラフに起こしました。
@@ -13,15 +11,14 @@ OverviewOverviewOverview
 
 ## 機能
 
-- 入力値と出力値から四次多項式の関数を求める
-- アルゴリズムの変更でlogや多変数微分にも対応可
-- 
+入力値と出力値から四次多項式の関数を求める
+アルゴリズムの変更でlogや多変数微分にも対応可
+ 
 
-For more information, see `awesome-tool --help`.
 
 ## 必要環境
 
-- Python3 or more
+Python3 or more
 - 
 - 
 
@@ -41,7 +38,7 @@ For more information, see `awesome-tool --help`.
 数式を探索できるならば、プログラムコードも自動生成することも理論上期待できる
 今後はDeepLearning技術の人的プログラミングも、GPを使って自動化する技術に挑戦したい
 
-## Author
+##### Author
 
 [@ryusato](https://facebook.com/baranohana.jp)
 
