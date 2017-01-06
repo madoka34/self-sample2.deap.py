@@ -9,7 +9,7 @@ OverviewOverviewOverview
 
 ***DEMO:***
 
-<img src="http://imgur.com/g3js5fP" alt="scs" title="サンプル">
+![SCS](http://i.imgur.com/g3js5fP "サンプル")
 
 ## Features
 
