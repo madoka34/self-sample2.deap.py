@@ -28,12 +28,13 @@ For more information, see `awesome-tool --help`.
 ## Usage
 
 1. git clone ""
+    $ git clone
 2. Usage
 3. Usage
 
 ## Installation
 
-    $ git clone https://github.com/b4b4r07/awesome-tool
+    $ git clone https://github.com/ryusato2/self-sample2.deap.py
 
 ## Anything Else
 
@@ -43,8 +44,6 @@ AnythingAnythingAnything
 
 ## Author
 
-[@b4b4r07](https://twitter.com/b4b4r07)
+[@b4b4r07](https://facebook.com/baranohana.jp)
 
-## License
 
-[MIT](http://b4b4r07.mit-license.org)
