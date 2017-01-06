@@ -11,16 +11,15 @@
 
 ## 機能
 
-入力値と出力値から四次多項式の関数を求める
-アルゴリズムの変更でlogや多変数微分にも対応可
+
+入力値と出力値から四次多項式の関数を求める  
+アルゴリズムの変更でlogや多変数微分にも対応可  
  
 
 
-## 必要環境
+## 必要環境  
 
-Python3 or more
-- 
-- 
+Python3 or more  
 
 ## Usage
 
@@ -29,7 +28,7 @@ Python3 or more
 2. Usage
 3. Usage
 
-## Installation
+## インストール
 
     $ git clone https://github.com/ryusato2/self-sample2.deap.py
 
@@ -38,7 +37,7 @@ Python3 or more
 数式を探索できるならば、プログラムコードも自動生成することも理論上期待できる
 今後はDeepLearning技術の人的プログラミングも、GPを使って自動化する技術に挑戦したい
 
-##### Author
+##### 執筆
 
 [@ryusato](https://facebook.com/baranohana.jp)
 
