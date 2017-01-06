@@ -11,15 +11,15 @@ OverviewOverviewOverview
 
 ![SCS](http://imgur.com/a/QLw87 "サンプル")
 
-## Features
+## 機能
 
-- Awesome function
-- Awesome UI
-- ...
+- 入力値と出力値から四次多項式の関数を求める
+- アルゴリズムの変更でlogや多変数微分にも対応可
+- 
 
 For more information, see `awesome-tool --help`.
 
-## Requirement
+## 必要環境
 
 - Python3 or more
 - 
@@ -36,14 +36,13 @@ For more information, see `awesome-tool --help`.
 
     $ git clone https://github.com/ryusato2/self-sample2.deap.py
 
-## Anything Else
+## その他
 
-AnythingAnythingAnything
-AnythingAnythingAnything
-AnythingAnythingAnything
+数式を探索できるならば、プログラムコードも自動生成することも理論上期待できる
+今後はDeepLearning技術の人的プログラミングも、GPを使って自動化する技術に挑戦したい
 
 ## Author
 
-[@b4b4r07](https://facebook.com/baranohana.jp)
+[@ryusato](https://facebook.com/baranohana.jp)
 
 
